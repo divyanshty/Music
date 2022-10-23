@@ -1,0 +1,20 @@
+h1{color:rgb(41, 52, 98); 
+    font-size: 50px;
+}
+body{
+    background-color: rgb(118, 186, 153);
+}
+img:hover{
+    background-color: cadetblue;
+}
+/********CLASS SELECTORS*********/
+
+.sandwich{
+   background-color: khaki; 
+}
+.teacup-without-handle{
+    background-color: black;
+}
+.circular{
+    border-radius: 100%;
+}

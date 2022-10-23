@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(203, 160, 174);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+ h1{
+color:7F5283"
+}
+
+hr {
+
+border-style:none;
+border-top-style: dotted;
+border-width: 6px;
+border-color:black;
+width: 15%;
+height: 0px;
+}
